@@ -8,6 +8,9 @@ Download **Arduino-cli-win7_v1.20.0.zip** and Etract Arduino-cli.exe to your spe
 To test it works on your win7 system, open a cmd window, navigate to the folder and enter `arduino-cli` & you should see the output to console.  
 Enter `arduino-cli version` to see the application version metadata.  
 
+Downlad the binary here...
+https://github.com/Tonigau/Arduino-cli_win7/releases
+
 SHA-1 Hash checksum:
   `CDBD867C21096AEF35207BEFB5A98A6BD3FC940A`
 
